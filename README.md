@@ -26,9 +26,9 @@
   <img width="12" />          
   <img src="https://cdn.simpleicons.org/claude/D97757" height="30" alt="claude code logo"  />
   <img width="12" />          
-  <img src="https://cdn.simpleicons.org/openai/412991" height="30" alt="codex logo"  />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex-color.png" height="30" alt="codex logo"  />
   <img width="12" />          
-  <img src="https://cdn.simpleicons.org/google/4285F4" height="30" alt="google antigravity logo"  />
+  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" height="30" alt="google antigravity logo"  />
 </div>
 
 ###
