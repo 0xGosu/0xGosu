@@ -24,11 +24,11 @@
   <img width="12" />          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
   <img width="12" />          
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" height="30" alt="claude code logo"  />
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="30" alt="claude code logo"  />
   <img width="12" />          
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" height="30" alt="codex logo"  />
+  <img src="https://cdn.simpleicons.org/openai/412991" height="30" alt="codex logo"  />
   <img width="12" />          
-  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30" alt="google antigravity logo"  />
+  <img src="https://cdn.simpleicons.org/google/4285F4" height="30" alt="google antigravity logo"  />
 </div>
 
 ###
